@@ -70,9 +70,8 @@ You get the prompt first, in a code block, then short notes on what was correcte
 SKILL.md              the skill
 agents/openai.yaml    Codex UI metadata (ignored by Claude)
 assets/icon.svg
-examples/             real before/after runs
 ```
 
 ## License
 
-MIT
+[MIT](LICENSE)
